@@ -45,3 +45,9 @@
 
 В этом задании наша основная задача — тренировка работы с DevTools.
 
+# Решение:
+[Задание 1](https://github.com/artmaxst/Homework/blob/main/2.3(1).pdf)
+
+[Задание 2](https://github.com/artmaxst/Homework/blob/main/2.3(2).pdf)
+
+[Задание 3 * ](https://github.com/artmaxst/Homework/blob/main/2.3(_).pdf)
